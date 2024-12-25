@@ -1,5 +1,5 @@
 # Olá, Bem Vindo(a)👋
-<img src='[https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif](https://c.tenor.com/6XBKSmjpMUYAAAAd/tenor.gif)'>
+<img src='[[https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif](https://c.tenor.com/6XBKSmjpMUYAAAAd/tenor.gif)](https://tenor.com/pt-BR/view/cat-divider-line-gif-10026155)](https://tenor.com/pt-BR/view/cat-divider-line-gif-10026155)'>
 ## 🚀 Sobre Mim  
 - 💻 Apaixonada por programação front-end.
 
