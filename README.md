@@ -1,5 +1,5 @@
 # Olá, Bem Vindo(a)👋
-<img src='https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif'>
+<img src='[https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif](https://c.tenor.com/6XBKSmjpMUYAAAAd/tenor.gif)'>
 ## 🚀 Sobre Mim  
 - 💻 Apaixonada por programação front-end.
 
