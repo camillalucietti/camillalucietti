@@ -1,10 +1,8 @@
-# Olá 👋
+# Olá, Bem Vindo(a)👋
 <img src='https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif'> <img src='https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif'>
 
 ## 🚀 Sobre Mim  
-- 💻 Apaixonado por programação e tecnologia.  
-- 🌱 Sempre aprendendo algo novo.  
-- 🎯 Atualmente focado em **Node.js** e **desenvolvimento web**.  
+- 💻 Apaixonada por programação front-end.
 
 ## 🌐 Minhas Linguagens  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
